@@ -1,6 +1,6 @@
 /*
- * Copyright © 2016 Iury Braun
- * Copyright © 2017 Weyboo
+ * Copyright © 2016-2026 Iury Braun
+ * Copyright © 2017-2026 VOLKER
  */
 
 package i18n_ini
